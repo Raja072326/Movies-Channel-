@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/00bdb8145479df9436ae1.jpg" alt="Ajax Techz">
+  <img src="https://telegra.ph/file/16834e41f2a8b5ad99650.jpg" alt="Ajax Techz">
 </p>
 <h1 align="center">
   <b>file-filter-bot</b>
 </h1>
-<a href="https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
+<a href="https://t.me/allnewmovieintime">
+  <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="150">
 
 [![Stars](https://img.shields.io/github/stars/malik7983/file-filter-bot?style=flat-square&color=orange)](https://github.com/malik7983/file-filter-bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/malik7983/file-filter-bot?style=flat-square&color=blue)](https://github.com/malik7983/file-filter-bot/fork)
@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Maliksahid786/file-filter-botv5">
+<a href="https://heroku.com/deploy?template=https://github.com/Raja072326/Movies-Channel-/edit/master/README.md">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -97,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Sahid malik](https://t.me/sahid_malik)                                                                                                                                                                                 
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies house](https://t.me/m_house786)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Movies Channel](https://t.me/king072326)                                                                                                                                                                                 
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies Channel](https://t.me/allnewmovieintime)
