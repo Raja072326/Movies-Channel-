@@ -7,9 +7,9 @@
 <a href="https://t.me/allnewmovieintime">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="150">
 
-[![Stars](https://img.shields.io/github/stars/malik7983/file-filter-bot?style=flat-square&color=orange)](https://github.com/malik7983/file-filter-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/malik7983/file-filter-bot?style=flat-square&color=blue)](https://github.com/malik7983/file-filter-bot/fork)
-[![Size](https://img.shields.io/github/repo-size/malik7983/file-filter-bot?style=flat-square&color=black)](https://github.com/malik7983/file-filter-bot)   
+[![Stars](https://img.shields.io/github/stars/king072326/file-filter-bot?style=flat-square&color=orange)](https://github.com/malik7983/file-filter-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/king072326/file-filter-bot?style=flat-square&color=blue)](https://github.com/malik7983/file-filter-bot/fork)
+[![Size](https://img.shields.io/github/repo-size/king072326/file-filter-bot?style=flat-square&color=black)](https://github.com/malik7983/file-filter-bot)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/malik7983/file-filter-bot)   
 ## Features
 
